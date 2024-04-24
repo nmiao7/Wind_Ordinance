@@ -1,0 +1,338 @@
+"","State","County","ordinance_year"
+"1","Alabama","Baldwin",2013
+"2","Alabama","Cherokee",2014
+"3","Alabama","Dekalb",2018
+"4","Alabama","Etowah",2014
+"5","Arizona","Apache",2021
+"6","Arizona","Navajo",2010
+"7","California","Butte",2015
+"8","California","Contra Costa",2011
+"9","California","El Dorado",2017
+"10","California","Kern",2011
+"11","California","Lassen",1984
+"12","California","Marin",2012
+"13","California","Monterey",2009
+"14","California","Riverside",2002
+"15","California","San Bernardino",2012
+"16","California","San Diego",2012
+"17","California","San Luis Obispo",1992
+"18","California","Santa Barbara",2011
+"19","California","Santa Clara",2014
+"20","California","Santa Cruz",1983
+"21","California","Solano",2012
+"22","California","Sonoma",2013
+"23","California","Tehama",2015
+"24","California","Yolo",2015
+"25","California","Yuba",2015
+"26","Colorado","Cheyenne",2011
+"27","Colorado","Clear Creek",2015
+"28","Colorado","El Paso",2016
+"29","Colorado","Elbert",2019
+"30","Colorado","Jefferson",2010
+"31","Colorado","Lincoln",2017
+"32","Colorado","Routt",2011
+"33","Colorado","Sedgwick",2019
+"34","Colorado","Washington",2021
+"35","Colorado","Yuma",2014
+"36","Delaware","Sussex",2011
+"37","Florida","Hillsborough",2011
+"38","Florida","Pinellas",2018
+"39","Georgia","Burke",2018
+"40","Idaho","Bannock",2013
+"41","Idaho","Bingham",2012
+"42","Idaho","Caribou",2017
+"43","Idaho","Fremont",2020
+"44","Illinois","Adams",2010
+"45","Illinois","Boone",2012
+"46","Illinois","Bureau",2023
+"47","Illinois","Carroll",2013
+"48","Illinois","Champaign",2010
+"49","Illinois","Christian",2020
+"50","Illinois","Coles",2008
+"51","Illinois","DeKalb",2018
+"52","Illinois","DeWitt",2009
+"53","Illinois","Ford",2009
+"54","Illinois","Henry",2009
+"55","Illinois","Iroquois",2004
+"56","Illinois","Jo Daviess",2009
+"57","Illinois","Kankakee",2009
+"58","Illinois","Kendall",2010
+"59","Illinois","LaSalle",2016
+"60","Illinois","Lee",2006
+"61","Illinois","Livingston",2017
+"62","Illinois","Logan",2021
+"63","Illinois","Macon",2014
+"64","Illinois","Marshall",2019
+"65","Illinois","Mason",2009
+"66","Illinois","McLean",2016
+"67","Illinois","Mercer",2014
+"68","Illinois","Montgomery",2009
+"69","Illinois","Morgan",2019
+"70","Illinois","Moultrie",2023
+"71","Illinois","Peoria",2017
+"72","Illinois","Piatt",2022
+"73","Illinois","Randolph",2019
+"74","Illinois","Sangamon",2023
+"75","Illinois","Tazewell",2009
+"76","Illinois","Warren",2006
+"77","Illinois","Whiteside",2018
+"78","Illinois","Will",2012
+"79","Illinois","Winnebago",2022
+"80","Illinois","Woodford",2008
+"81","Indiana","Benton",2006
+"82","Indiana","Cass",2009
+"83","Indiana","Clinton",2009
+"84","Indiana","Grant",2008
+"85","Indiana","Henry",2018
+"86","Indiana","Huntington",2015
+"87","Indiana","Jay",2009
+"88","Indiana","Marshall",2007
+"89","Indiana","Montgomery",2009
+"90","Indiana","Randolph",2010
+"91","Indiana","Rush",2009
+"92","Indiana","Steuben",2010
+"93","Indiana","Tippecanoe",2010
+"94","Indiana","Tipton",2009
+"95","Indiana","Wabash",2017
+"96","Indiana","Warren",2016
+"97","Indiana","White",2008
+"98","Iowa","Adair",2018
+"99","Iowa","Boone",2009
+"100","Iowa","Buchanan",2020
+"101","Iowa","Butler",2013
+"102","Iowa","Cass",2015
+"103","Iowa","Cedar",2019
+"104","Iowa","Cherokee",2014
+"105","Iowa","Clay",2011
+"106","Iowa","Delaware",2010
+"107","Iowa","Dickinson",2014
+"108","Iowa","Floyd",2015
+"109","Iowa","Greene",2011
+"110","Iowa","Grundy",2010
+"111","Iowa","Ida",2015
+"112","Iowa","Iowa",2014
+"113","Iowa","Kossuth",2018
+"114","Iowa","Madison",2020
+"115","Iowa","Muscatine",2016
+"116","Iowa","O'Brien",2010
+"117","Iowa","Osceola",2013
+"118","Iowa","Palo Alto",2016
+"119","Iowa","Plymouth",2010
+"120","Iowa","Polk",2009
+"121","Iowa","Pottawattamie",2008
+"122","Iowa","Poweshiek",2011
+"123","Iowa","Story",2013
+"124","Iowa","Tama",2010
+"125","Kansas","Barton",2013
+"126","Kansas","Cherokee",2022
+"127","Kansas","Crawford",2017
+"128","Kansas","Dickinson",2022
+"129","Kansas","Douglas",2020
+"130","Kansas","Franklin",2019
+"131","Kansas","Harper",2016
+"132","Kansas","Harvey",2002
+"133","Kansas","Lyon",2008
+"134","Kansas","Marshall",2022
+"135","Kansas","Miami",2016
+"136","Kansas","Osage",2010
+"137","Kansas","Pawnee",2009
+"138","Kansas","Pottawatomie",2008
+"139","Kansas","Pratt",2012
+"140","Kansas","Saline",2008
+"141","Kansas","Sumner",2012
+"142","Maryland","Allegany",2019
+"143","Maryland","Anne Arundel",2010
+"144","Maryland","Calvert",2010
+"145","Maryland","Carroll",2008
+"146","Maryland","Somerset",2010
+"147","Maryland","Worcester",2010
+"148","Michigan","Emmet",2015
+"149","Michigan","Gratiot",2009
+"150","Michigan","Huron",2010
+"151","Michigan","Ionia",2010
+"152","Michigan","Otsego",2015
+"153","Michigan","Ottawa",2009
+"154","Michigan","Shiawassee",2018
+"155","Minnesota","Benton",2009
+"156","Minnesota","Chippewa",2005
+"157","Minnesota","Clay",2009
+"158","Minnesota","Cook",2021
+"159","Minnesota","Cottonwood",2016
+"160","Minnesota","Douglas",2012
+"161","Minnesota","Fillmore",2012
+"162","Minnesota","Freeborn",2015
+"163","Minnesota","Goodhue",2010
+"164","Minnesota","Kandiyohi",2018
+"165","Minnesota","Lyon",2011
+"166","Minnesota","Martin",2015
+"167","Minnesota","Murray",2010
+"168","Minnesota","Nobles",2006
+"169","Minnesota","Norman",2010
+"170","Minnesota","Otter Tail",2011
+"171","Minnesota","Pipestone",2005
+"172","Minnesota","Red Lake",2012
+"173","Minnesota","Redwood",2009
+"174","Minnesota","Renville",2011
+"175","Minnesota","Sibley",2021
+"176","Minnesota","Stearns",2010
+"177","Minnesota","Stevens",2011
+"178","Minnesota","Wabasha",2010
+"179","Minnesota","Wright",2016
+"180","Missouri","Boone",2021
+"181","Missouri","Buchanan",2020
+"182","Missouri","Clinton",2019
+"183","Missouri","Schuyler",2011
+"184","Montana","Madison",2013
+"185","Nebraska","Adams",2018
+"186","Nebraska","Antelope",2017
+"187","Nebraska","Brown",2020
+"188","Nebraska","Burt",2009
+"189","Nebraska","Cass",2016
+"190","Nebraska","Cedar",2000
+"191","Nebraska","Cherry",2012
+"192","Nebraska","Clay",2005
+"193","Nebraska","Colfax",2015
+"194","Nebraska","Cuming",2020
+"195","Nebraska","Dakota",2006
+"196","Nebraska","Dawson",2019
+"197","Nebraska","Fillmore",2013
+"198","Nebraska","FIllmore",2013
+"199","Nebraska","Frontier",2015
+"200","Nebraska","Furnas",2016
+"201","Nebraska","Gage",2016
+"202","Nebraska","Garfield",2015
+"203","Nebraska","Greeley",2015
+"204","Nebraska","Hamilton",2019
+"205","Nebraska","Hayes",2011
+"206","Nebraska","Holt",2014
+"207","Nebraska","Howard",2016
+"208","Nebraska","Jefferson",2020
+"209","Nebraska","Kearney",2018
+"210","Nebraska","Kimball",2018
+"211","Nebraska","Knox",2012
+"212","Nebraska","Lincoln",2012
+"213","Nebraska","Madison",2003
+"214","Nebraska","Merrick",2018
+"215","Nebraska","Nance",2011
+"216","Nebraska","Otoe",2016
+"217","Nebraska","Pierce",2018
+"218","Nebraska","Polk",2013
+"219","Nebraska","Red Willow",2012
+"220","Nebraska","Saline",2010
+"221","Nebraska","Stanton",2017
+"222","Nebraska","Thayer",2021
+"223","Nebraska","Thomas",2019
+"224","Nebraska","Valley",2015
+"225","Nebraska","Webster",2018
+"226","Nebraska","York",2014
+"227","Nevada","Lander",2011
+"228","Nevada","Lyon",2012
+"229","Nevada","Washoe",2010
+"230","New Mexico","Lincoln",2011
+"231","New Mexico","San Miguel",2011
+"232","New Mexico","Santa Fe",2014
+"233","New Mexico","Taos",2018
+"234","North Carolina","Ashe",2016
+"235","North Carolina","Camden",2007
+"236","North Carolina","Carteret",2013
+"237","North Carolina","Craven",2013
+"238","North Carolina","Currituck",2008
+"239","North Carolina","Davidson",2015
+"240","North Carolina","Edgecombe",2021
+"241","North Carolina","Hyde",2008
+"242","North Carolina","Iredell",2016
+"243","North Carolina","Madison",2021
+"244","North Carolina","Pasquotank",2011
+"245","North Carolina","Perquimans",2021
+"246","North Carolina","Tyrrell",2009
+"247","North Dakota","Barnes",2021
+"248","North Dakota","Bowman",2012
+"249","North Dakota","Burleigh",2011
+"250","North Dakota","Divide",2017
+"251","North Dakota","Golden Valley",2012
+"252","North Dakota","Grant",2015
+"253","North Dakota","Logan",2006
+"254","North Dakota","McKenzie",2016
+"255","North Dakota","McLean",2013
+"256","North Dakota","Mercer",2020
+"257","North Dakota","Morton",2016
+"258","North Dakota","Oliver",2016
+"259","North Dakota","Pierce",2003
+"260","North Dakota","Stark",2012
+"261","North Dakota","Stutsman",2009
+"262","North Dakota","Wells",2009
+"263","North Dakota","Williams",2015
+"264","Ohio","Franklin",2020
+"265","Ohio","Morrow",2021
+"266","Oregon","Baker",2014
+"267","Oregon","Crook",2010
+"268","Oregon","Harney",2010
+"269","Oregon","Jefferson",2010
+"270","Oregon","Umatilla",2021
+"271","Oregon","Wallowa",2008
+"272","Oregon","Wasco",2016
+"273","Oregon","Washington",2013
+"274","Pennsylvania","Clarion",2021
+"275","Pennsylvania","Erie",2010
+"276","Pennsylvania","Fayette",2006
+"277","Pennsylvania","Luzerne",2021
+"278","Pennsylvania","Lycoming",2011
+"279","Pennsylvania","Montour",2016
+"280","Pennsylvania","Schuylkill",2020
+"281","Pennsylvania","Somerset",2022
+"282","South Carolina","Darlington",2017
+"283","South Dakota","Beadle",2017
+"284","South Dakota","Bon Homme",2015
+"285","South Dakota","Brookings",2001
+"286","South Dakota","Brown",1997
+"287","South Dakota","Clark",2019
+"288","South Dakota","Clay",2010
+"289","South Dakota","Codington",2018
+"290","South Dakota","Deuel",2004
+"291","South Dakota","Grant",2016
+"292","South Dakota","Hyde",2020
+"293","South Dakota","Lake",2014
+"294","South Dakota","Lawrence",2014
+"295","South Dakota","Lincoln",2016
+"296","South Dakota","Marshall",2021
+"297","South Dakota","McCook",2014
+"298","South Dakota","McPherson",2010
+"299","South Dakota","Meade",2019
+"300","South Dakota","Minnehaha",2014
+"301","South Dakota","Moody",2014
+"302","South Dakota","Pennington",2012
+"303","South Dakota","Union",2009
+"304","South Dakota","Walworth",2017
+"305","South Dakota","Yankton",2020
+"306","Tennessee","Jefferson",2021
+"307","Utah","Beaver",2014
+"308","Utah","Box Elder",2010
+"309","Utah","Daggett",2011
+"310","Utah","Iron",2012
+"311","Utah","Millard",2012
+"312","Utah","Washington",2010
+"313","Utah","Wayne",2011
+"314","Virginia","Bland",2010
+"315","Virginia","Botetourt",2015
+"316","Virginia","Pulaski",2015
+"317","Virginia","Rockingham",2010
+"318","Virginia","Warren",2009
+"319","Virginia","Washington",2012
+"320","Washington","Adams",2021
+"321","Washington","Asotin",2018
+"322","Washington","Garfield",2019
+"323","Washington","Grant",2021
+"324","Washington","Klickitat",2010
+"325","Washington","Pacific",2011
+"326","Washington","Whatcom",2023
+"327","Washington","Whitman",2021
+"328","Wisconsin","Calumet",2015
+"329","Wisconsin","Door",2008
+"330","Wisconsin","Iowa",2014
+"331","Wisconsin","Monroe",2016
+"332","Wisconsin","Racine",2004
+"333","Wyoming","Albany",2020
+"334","Wyoming","Campbell",2019
+"335","Wyoming","Converse",2020
+"336","Wyoming","Platte",2022
+"337","Wyoming","Uinta",2022
