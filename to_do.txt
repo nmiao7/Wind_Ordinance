@@ -1,0 +1,6 @@
+1. data processing -> unit should match
+2. data is not time-series
+
+1. validation loss (pick the minimum validation loss and test it.)
+2. train = ordinance = 0, test = ordinance = 1
+3. See if weight of ordinance is actually 0 or not?
